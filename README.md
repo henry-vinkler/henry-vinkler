@@ -1,1 +1,5 @@
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/5246697.png)](https://tryhackme.com/p/5246697)
+### 🛡️ Cybersecurity Learning Progress
+
+<a href="https://tryhackme.com/p/henryvinkler">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/henryvinkler.png" alt="TryHackMe Badge" />
+</a>
